@@ -28,4 +28,4 @@ Run the tests with:
 ./mvnw test
 ```
 
-By default the are some loggers to `DEBUG` and `TRACE` to clarify the issue.
+By default, there are some loggers to `DEBUG` and `TRACE` to clarify the issue.
