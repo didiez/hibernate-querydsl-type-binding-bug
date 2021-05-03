@@ -1,0 +1,11 @@
+spring.jpa.properties:
+    hibernate.show_sql: false
+
+logging.level:
+    ROOT: ERROR
+    es.didiez: INFO
+    com.querydsl.jpa.impl.JPAQuery: DEBUG
+    org.hibernate.engine.query.spi.HQLQueryPlan: TRACE    
+    net.ttddyy.dsproxy.listener.logging.SLF4JQueryLoggingListener: DEBUG
+    # uncomment to log details of HQL AST
+    # org.hibernate.hql.internal.ast.QueryTranslatorImpl: DEBUG
