@@ -1,5 +1,7 @@
 # QueryDSL type binding bug
 
+https://github.com/querydsl/querydsl/issues/2816
+
 Sample application to reproduce a bug when using QueryDSL to query an entity with custom types used in boolean fields.
 
 ## Description
